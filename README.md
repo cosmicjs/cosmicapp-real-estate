@@ -1,5 +1,5 @@
 #Real Estate
-A real estate website that satisfies some common real estate website requirements including dynamic pages, listing pages, blog articles, author management, SEO ability, contact form and website search.
+A real estate website that satisfies some common real estate website requirements including dynamic pages, listing management, blog articles, author management, SEO ability, contact form and website search.
 ##Demo
 [Click here to view the demo website](http://real-estate.cosmicapp.co)
 ####Tell your real estate friends (everyone has at least one) to use this instead of other website templates because:
