@@ -1,4 +1,10 @@
 $(function() {
+  if ($('#contact_form').length) {
+    $('#contact_form .input-full-name').focus();
+  }
+  if ($('#search_form').length) {
+    $('#search_form .input-search').focus();
+  }
   $('.phone-mask').mask('000-000-0000');
   $(window).on('load', function() {
     stickyFooter();

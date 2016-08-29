@@ -1,0 +1,31 @@
+{{> header }}
+  <main id="main">
+    <div class="container mb-40">
+      <div class="row">
+        {{# listings }}
+          <div class="col-sm-4">
+            <div class="mb-20">
+              <a href="/listings/{{ slug }}">
+                <h3>{{ title }}</h3>
+              </a>
+            </div>
+            <div>
+              <a href="/listings/{{ slug }}">
+                <img class="img-responsive center-block" src="{{ metafield.hero.imgix_url }}?w=900">
+              </a>
+            </div>
+            <div class="font-30 mb-0">{{ metafield.price.value }}</div>
+            <div>
+              {{ metafield.teaser.value }}
+              <div>
+                <a href="/listings/{{ slug }}">
+                  More info...
+                </a>
+              </div>
+            </div>
+          </div>
+        {{/ listings }}
+      </div>
+    </div>
+  </main>
+{{> footer }}

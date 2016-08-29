@@ -2,6 +2,7 @@
 module.exports = (app, config, partials) => {
   require('./home')(app, config, partials)
   require('./blog')(app, config, partials)
+  require('./listings')(app, config, partials)
   require('./contact')(app, config, partials)
   require('./search')(app, config, partials)
   require('./faqs')(app, config, partials)
