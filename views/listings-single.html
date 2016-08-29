@@ -16,9 +16,16 @@
         </div>
         <div class="col-sm-6">
           <div>{{{ page.content }}}</div>
-          <div>
+          <div class="mb-20">
             <a href="/contact" class="btn btn-primary">Contact us about this listing!</a>
           </div>
+          <iframe
+            width="600"
+            height="450"
+            frameborder="0" style="border:0"
+            src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDr7gRsDPCn7v3tZ1jlD1_oOyiu9dg9M6s
+              &q={{ page.metafield.address.value }}" allowfullscreen>
+          </iframe>
         </div>
       </div>
     </div>
