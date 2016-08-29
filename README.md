@@ -1,7 +1,7 @@
 #Reat Estate
 A real estate website that satisfies some common real estate website requirements including dynamic pages, listing pages, blog articles, author management, SEO ability, contact form and website search.
 ##Demo
-[Click here to view a demo website (Real Estate)](http://real-estate.cosmicapp.co)
+[Click here to view the demo website](http://real-estate.cosmicapp.co)
 ##Features
 1. Fully responsive down to mobile w/ [Bootstrap](http://getbootstrap.com) frontend<br />
 2. SEO ready<br />
