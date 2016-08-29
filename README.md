@@ -3,6 +3,12 @@
 
 This real estate website tempalte satisfies some common real estate website requirements including dynamic pages, listing management, blog articles, author management, SEO ability, contact form and website search.
 
+##Intallation
+Install and deploy this website faster than you can say SOLD! using [The Cosmic Stack](https://cosmicjs.com/blog/the-cosmic-stack).  Steps:
+1. Sign up for [Cosmic JS](https://cosmicjs.com)
+2. Create a bucket, install the Real Estate app
+3. Deploy to web!
+
 ####Tell your realtor friends (everyone has at least one) to use this instead of other website templates because:
 1. It's built on Node.js so everything loads SUPER FAST
 2. It's SO easy to edit content using the [Cosmic JS CMS API](https://cosmicjs.com)
