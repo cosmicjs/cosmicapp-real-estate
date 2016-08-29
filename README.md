@@ -3,7 +3,7 @@
 
 This real estate website template satisfies some common real estate website requirements including dynamic pages, listing management, blog articles, author management, SEO ability, contact form and website search.
 
-##Intallation
+##Installation
 Install and deploy this website faster than you can say SOLD! using [The Cosmic Stack](https://cosmicjs.com/blog/the-cosmic-stack).  
 
 ####Steps:
