@@ -7,8 +7,8 @@ This real estate website tempalte satisfies some common real estate website requ
 Install and deploy this website faster than you can say SOLD! using [The Cosmic Stack](https://cosmicjs.com/blog/the-cosmic-stack).  
 
 ####Steps:
-1. Sign up for [Cosmic JS](https://cosmicjs.com)
-2. Create a bucket, install the Real Estate app
+1. [Sign up for Cosmic JS](https://cosmicjs.com)
+2. Create a bucket, then install the Real Estate app
 3. Deploy to web!
 
 ####Tell your realtor friends (everyone has at least one) to use this instead of other website templates because:
