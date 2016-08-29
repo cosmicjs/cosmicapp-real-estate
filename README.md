@@ -11,12 +11,6 @@ Install and deploy this website faster than you can say SOLD! using [The Cosmic 
 2. Create a bucket, then install the Real Estate app
 3. Deploy to web!
 
-####Tell your realtor friends (everyone has at least one) to use this instead of other website templates because:
-1. It's built on Node.js so everything loads SUPER FAST
-2. It's SO easy to edit content using the [Cosmic JS CMS API](https://cosmicjs.com)
-3. They're going to be much happier with a state-of-the-art API-powered website than an old-school, slow, installed system
-4. You're going to want to help them build on it because it's built on tech you love :)
-
 ##Demo
 [Click here to view the demo website](http://real-estate.cosmicapp.co)
 
@@ -28,6 +22,13 @@ Install and deploy this website faster than you can say SOLD! using [The Cosmic 
 5. All content is easily managed in [Cosmic JS](https://cosmicjs.com) including pages, blog and contact info.
 
 Sign up for [Cosmic JS](https://cosmicjs.com) to install the demo content and deploy this website.
+
+##Spread the word
+####Tell your realtor friends (everyone has at least one) to use this instead of other website templates because:
+1. It's built on Node.js so everything loads SUPER FAST
+2. It's SO easy to edit content using the [Cosmic JS CMS API](https://cosmicjs.com)
+3. They're going to be much happier with a state-of-the-art API-powered website than an old-school, slow, installed system
+4. You're going to want to help them build on it because it's built on tech you love :)
 
 ##Get started
 ```
