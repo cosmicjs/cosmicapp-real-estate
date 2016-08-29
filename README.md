@@ -1,11 +1,14 @@
 #Real Estate
 A real estate website that satisfies some common real estate website requirements including dynamic pages, listing management, blog articles, author management, SEO ability, contact form and website search.
-##Demo
-[Click here to view the demo website](http://real-estate.cosmicapp.co)
+
 ####Tell your real estate friends (everyone has at least one) to use this instead of other website templates because:
 1. It's built on Node.js so everything loads SUPER FAST
 2. It's SO easy to edit content using the [Cosmic JS CMS API](https://cosmicjs.com)
 3. They're going to be much happier with a state-of-the-art API-powered website than an old-school, slow, installed system
+4. You're going to want to help them build on it because it's built on tech you love :)
+
+##Demo
+[Click here to view the demo website](http://real-estate.cosmicapp.co)
 
 ##Features
 1. Fully responsive down to mobile w/ [Bootstrap](http://getbootstrap.com) frontend<br />
