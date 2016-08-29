@@ -1,7 +1,7 @@
-#Node.js Website Boilerplate
+#Reat Estate
 A website template that satisfies some common website requirements including dynamic pages, blog articles, author management, SEO ability, contact form and website search.  Contributions welcome!
 ##Demo
-[Click here to view a demo website (Medical Professional)](http://medical-professional.cosmicapp.co)
+[Click here to view a demo website (Real Estate)](http://real-estate.cosmicapp.co)
 ##Features
 1. Fully responsive down to mobile w/ [Bootstrap](http://getbootstrap.com) frontend<br />
 2. SEO ready<br />
@@ -13,14 +13,10 @@ Sign up for [Cosmic JS](https://cosmicjs.com) to install the demo content and de
 
 ##Get started
 ```
-git clone https://github.com/cosmicjs/nodejs-website-boilerplate
-cd nodejs-website-boilerplate
+git clone https://github.com/cosmicjs/cosmicapp-real-estate
+cd cosmicapp-real-estate
 npm install
 ```
-Import the `example-bucket.json` file into your Cosmic JS bucket.  To do this go to Your Bucket > Settings > Import / Export Data.
-
-![Import Bucket](https://cosmicjs.com/uploads/4edef890-52e6-11e6-9a1c-233e4e7aa20d-ZadK2PbDDR.gif "Import Bucket")
-
 ###Run in production
 ```
 COSMIC_BUCKET=your-bucket-slug npm start
