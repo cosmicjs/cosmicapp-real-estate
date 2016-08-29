@@ -1,4 +1,4 @@
-#Real Estate Website Template
+#Real Estate Website
 ![Cosmic JS Real Estate Website](https://cosmicjs.imgix.net/b5947f60-6d53-11e6-b581-890a92317c6c-pool.jpg?w=500)
 
 A real estate website that satisfies some common real estate website requirements including dynamic pages, listing management, blog articles, author management, SEO ability, contact form and website search.
