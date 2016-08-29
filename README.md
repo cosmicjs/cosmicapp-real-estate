@@ -3,6 +3,9 @@
 
 This real estate website template satisfies some common real estate website requirements including dynamic pages, listing management, blog articles, author management, SEO ability, contact form and website search.  Built using [Node.js](https://nodejs.org/en/) for the server, [Bootstrap](http://getbootstrap.com/) for the frontend framework and [Cosmic JS](https://cosmicjs.com/) for the CMS API.
 
+##Pagespeed
+[Yea, it's fast](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Freal-estate.cosmicapp.co%2F)
+
 ##Installation
 Install and deploy this website faster than you can say SOLD! using [The Cosmic Stack](https://cosmicjs.com/blog/the-cosmic-stack).  
 
