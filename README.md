@@ -6,6 +6,7 @@ A real estate website that satisfies some common real estate website requirement
 1. It's built on Node.js so everything loads SUPER FAST
 2. It's SO easy to edit content using the Cosmic JS CMS API
 3. They're going to be much happier with a state-of-the-art API-powered website than an old-school, slow, installed system
+
 ##Features
 1. Fully responsive down to mobile w/ [Bootstrap](http://getbootstrap.com) frontend<br />
 2. SEO ready<br />
