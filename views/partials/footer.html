@@ -15,15 +15,31 @@
       <div class="col-sm-4">
         <div class="font-20 mb-20">Connect</div>
         <div class="mb-20">
-          <a class="mr-10" href="{{ cosmic.object.social.metafield.facebook.value }}" target="_blank">
-            <i class="fa fa-facebook font-26"></i>
-          </a>
-          <a class="mr-10" href="{{ cosmic.object.social.metafield.twitter.value }}" target="_blank">
-            <i class="fa fa-twitter font-26"></i>
-          </a>
-          <a class="mr-10" href="{{ cosmic.object.social.metafield.google_plus.value }}" target="_blank">
-            <i class="fa fa-google-plus font-26"></i>
-          </a>
+          {{# cosmic.object.social.metafield.facebook.value }}
+            <a class="mr-10" href="{{ cosmic.object.social.metafield.facebook.value }}" target="_blank">
+              <i class="fa fa-facebook font-26"></i>
+            </a>
+          {{/ cosmic.object.social.metafield.facebook.value }}
+          {{# cosmic.object.social.metafield.twitter.value }}
+            <a class="mr-10" href="{{ cosmic.object.social.metafield.twitter.value }}" target="_blank">
+              <i class="fa fa-twitter font-26"></i>
+            </a>
+          {{/ cosmic.object.social.metafield.twitter.value }}
+          {{# cosmic.object.social.metafield.google_plus.value }}
+            <a class="mr-10" href="{{ cosmic.object.social.metafield.google_plus.value }}" target="_blank">
+              <i class="fa fa-google-plus font-26"></i>
+            </a>
+          {{/ cosmic.object.social.metafield.google_plus.value }}
+          {{# cosmic.object.social.metafield.pinterest.value }}
+            <a class="mr-10" href="{{ cosmic.object.social.metafield.pinterest.value }}" target="_blank">
+              <i class="fa fa-pinterest font-26"></i>
+            </a>
+          {{/ cosmic.object.social.metafield.pinterest.value }}
+          {{# cosmic.object.social.metafield.instagram.value }}
+            <a class="mr-10" href="{{ cosmic.object.social.metafield.instagram.value }}" target="_blank">
+              <i class="fa fa-instagram font-26"></i>
+            </a>
+          {{/ cosmic.object.social.metafield.instagram.value }}
         </div>
         <div class="mb-20">
           &copy; {{ year }} {{ cosmic.object.footer.metafield.company_title.value }}
