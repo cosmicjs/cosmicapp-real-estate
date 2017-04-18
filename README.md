@@ -6,7 +6,7 @@ This real estate website template satisfies some common real estate website requ
 ## Pagespeed
 [Yea, it's fast](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Freal-estate.cosmicapp.co%2F)
 
-##Installation
+## Installation
 Install and deploy this website faster than you can say SOLD! using [The Cosmic Stack](https://cosmicjs.com/blog/the-cosmic-stack).  
 
 #### Steps:
